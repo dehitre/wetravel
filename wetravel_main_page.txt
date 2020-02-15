@@ -1,0 +1,55 @@
+WeTravel
+
+Functional
+	Logo
+		Reload page by click on logo
+	Use case list
+		Go to https://www.wetravel.com/landing/group-travel-companies/ by choosing Group Travel Companies
+		Go to https://www.wetravel.com/landing/latin-america/ by choosing International Tour Operators
+		Go to https://www.wetravel.com/landing/group-travel-companies/ by choosing Student and Youth Travel
+		Go to https://www.wetravel.com/landing/group-travel-companies/ by choosing Sports and Team Travel
+		Go to https://www.wetravel.com/student-travel by choosing University and MBA Travel
+	How to
+		Go to https://help.wetravel.com/en/articles/253921-how-it-works by click on How to
+	Pricing
+		Go to https://www.wetravel.com/pricing by click on Pricing
+	Sign in
+		Welcome pop-up opens by click on sin up
+		Welcome pop-up closes by click on cross button
+		Welcome pop-up closes by click on non-pop-up area
+		Sign in with correct log/pass
+		Sign in with correct log and incorrect pass
+		Sign in with registered user with FB
+		Sign up with unregistered user with FB
+		Sign in with registered user with linkedin
+		Sign up with unregistered user with linkedin
+		Sign in with registered user with G+
+		Sign up with unregistered user with G+
+		Register account with required fields and with business account flag
+		Register account with required fields and without business account flag
+		Register account without required fields
+		Open https://www.wetravel.com/terms by click on Terms of Service
+	Main page
+		Go to https://help.wetravel.com/en/articles/253921-how-it-works by click on How it works
+		Go to https://www.wetravel.com/itinerary_builder/new by click on Try it now
+		Go to https://www.wetravel.com/pricing by click View Our Pricing
+		Watch the YouTube video
+		Go to https://app.hubspot.com/meetings/zaky-prabowo/30-minute-demo by click on  Request A Demo
+		Go to https://www.wetravel.com/itinerary_builder/new by click on Try it now on the bottom
+		Go to https://app.hubspot.com/meetings/zaky-prabowo/30-minute-demo by click on  Request A Demo on bottom
+	Featured in
+		Check all links
+	Footer
+		Check all links
+	Check scrolling
+	Check message with support
+Non-Functional
+	Cross browser testing (Chrome, Edge, Safari, Opera, FF)
+	Check adaptive design
+	Check mobile web version
+	Check security
+		XSS
+		Using secure params in get
+		cookie and session expiration
+	Check work with bad internet connection
+	Load testing with registration and login
