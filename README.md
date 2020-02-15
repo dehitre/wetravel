@@ -1,5 +1,4 @@
 # wetravel
-There is no any destination fields on main page, so I used link https://www.wetravel.com/itinerary_builder/new.
 It is hard to login user with auto-tests because of captcha. It is possible to use Chrome profile for example but it easier to turn off captcha for test.
 To run test:
 1. Make sure that you have python3 installed.
