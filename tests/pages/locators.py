@@ -1,5 +1,8 @@
 from selenium.webdriver.common.by import By
 
+class MainPageLocators:
+    TRY_BTN = (By.XPATH,"//a[contains(@class, 'mainBanner__btn--create')]")
+
 
 class TripPageLocators:
     LOCATION = (By.CSS_SELECTOR, "#location")
@@ -15,3 +18,5 @@ class TripPageLocators:
     PRIVACY_NEXT_BTN = (By.CSS_SELECTOR, "#next_step")
     CLS_MODAL = (By.CSS_SELECTOR, ".wt-modal__close")
     LOGO = (By.XPATH, "//img[@alt='wetravel logo']")
+
+
